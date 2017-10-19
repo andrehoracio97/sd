@@ -1,0 +1,11 @@
+id_eleicao#id_locais#departamento#escolhido
+1#2#xxx#0
+1#4#fpl#0
+2#1#dei#0
+2#3#deec#0
+2#5#dic#0
+4#1#dei#1
+4#3#deec#0
+7#1#dei#0
+7#3#deec#0
+7#5#dic#0

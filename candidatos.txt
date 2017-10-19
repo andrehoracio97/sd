@@ -1,0 +1,7 @@
+Cc#ID_eleição#Lista#Cargo
+123456789#1#A#Presidente
+987654321#1#B#blabla
+111111111#1#A#blabla
+222222222#1#C#blavla
+333333333#1#B#Presidente
+444444444#1#C#Presidente

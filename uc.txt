@@ -1,0 +1,6 @@
+faculdade#departamento#id_local_de_voto
+fctuc#dei#1
+fctuc#xxx#2
+fctuc#deec#3
+fluc#fpl#4
+fluc#dic#5

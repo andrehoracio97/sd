@@ -1,0 +1,15 @@
+Nome#Cc#Validade Cc#Password#Departamento#Faculdade#Contacto#Morada#Tipo
+oi#123456789#2016#123#dei#fctuc#2233#1111#docente
+io#987654321#2017#987#dei#fctuc#2233#1111#funcionario
+aa#111111111#2017#111#dei#fctuc#2233#1111#estudante
+bb#222222222#2017#222#dei#fctuc#2233#1111#docente
+cc#333333333#2017#333#dei#fctuc#2233#1111#estudante
+dd#444444444#2017#444#dei#fctuc#2233#1111#funcionario
+ee#555555555#2017#555#dei#fctuc#2233#1111#funcionario
+ff#666666666#2017#666#dei#fctuc#2233#1111#estudante
+gg#777777777#2018#777#dei#fctuc#2233#1111#funcionario
+hh#888888888#2018#888#dei#fctuc#2233#1111#docente
+ii#999999999#2019#999#dei#fctuc#2233#1111#estudante
+toto#123123123#2010#qwe#dei#fctuc#2233#1111#estudante
+qwerty#123456789#2001#qwe#DEI#FCTUC#96113377#1111#estudante
+qweqwe#12121212#2000#qwe#dei#fctuc#123#1111#docente
